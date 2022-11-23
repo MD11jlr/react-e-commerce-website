@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/jlrisso/react-e-commerce-website">
+  <a href="https://github.com/MD11jlr/react-e-commerce-website">
     <img src="https://openmoji.org/data/color/svg/1F6D2.svg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">E-Commerce-React-App</h3>
@@ -130,16 +130,16 @@ npm -v
 ### Instalación
 Primero vas a necesitar descargar y/o clonar el repositorio, para ello, seguí los pasos que se detallan a continuación:
 
-* Clone _'https://github.com/jlrisso/react-e-commerce-website.git'_ repository from GitHub
+* Clone _'https://github.com/MD11jlr/react-e-commerce-website.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/jlrisso/react-e-commerce-website.git
+  git clone https://github.com/MD11jlr/react-e-commerce-website.git
   ```
 
    _O USANDO SSH_
 
   ```bash
-  git clone git@github.com:jlrisso/react-e-commerce-website.git
+  git clone git@github.com:MD11jlr/react-e-commerce-website.git
   ```
 
 * Instalar las dependencias<br/>
@@ -168,7 +168,7 @@ En la carpeta del proyecto, ejecutá el siguiente comando para instalar las depe
 👤 **José López Risso**
 
 - Instagram: [@joselopezrisso](https://instagram.com/joselopezrisso)
-- Github: [@jlrisso](https://github.com/jlrisso/)
+- Github: [@MD11jlr](https://github.com/MD11jlr)
 
 <br />
 
